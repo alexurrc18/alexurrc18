@@ -14,7 +14,6 @@
 - Usually coding with music in the background.
 
 
----
 
 
 ## 🎒 Dev Backpack
@@ -25,7 +24,7 @@
 | **Programming** | Java (Android) · C++ · SQL · HTML · CSS |
 
 
----
+
 
 
 ## 🚀 Side Quests
@@ -34,7 +33,6 @@
   https://github.com/alexurrc18/summerwell
 
 
----
 
 
 ## 📈 GitHub Stats
@@ -45,8 +43,6 @@
 </p>
 
 
-
----
 
 
 ## 🤝 Let’s connect
