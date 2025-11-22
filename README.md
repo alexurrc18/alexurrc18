@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋 I'm Alex</h1>
+<h1 align="center">Heyya 👋 I'm Alex</h1>
 
-<p align="center">**🧑‍🎓 Computer Science Student · 💻 Builder at heart · 🖼️ UI/UX enthusiast**</h6>
+<p align="center"><strong>🧑‍🎓 Computer Science Student · 💻 Builder at heart · 🖼️ UI/UX enthusiast</strong></p>
 <p align="center">I like building buttons that feel great to click.</p>
 
 
@@ -14,6 +14,7 @@
 - Usually coding with music in the background.
 
 
+<br>
 
 
 ## 🎒 Dev Backpack
@@ -24,7 +25,7 @@
 | **Programming** | Java (Android) · C++ · SQL · HTML · CSS |
 
 
-
+<br>
 
 
 ## 🚀 Side Quests
@@ -33,6 +34,7 @@
   https://github.com/alexurrc18/summerwell
 
 
+<br>
 
 
 ## 📈 GitHub Stats
