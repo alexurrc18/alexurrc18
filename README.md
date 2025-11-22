@@ -19,7 +19,8 @@
 
 | Category | Tools / Skills |
 |---|---|
-| **Software** | Microsoft Office · Adobe Photoshop · Adobe Premiere Pro · Figma · Firebase |
+| **Software** | Microsoft Office · Adobe Photoshop · 
+Adobe Premiere Pro · Figma · Firebase |
 | **Programming** | Java (Android) · C++ · SQL · HTML · CSS |
 
 
