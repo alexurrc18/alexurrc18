@@ -23,7 +23,7 @@
 ## 🚀 Side Quests
 
 - ☀️ **Summer Well** — [Your festival companion]  
-  🔗 https://github.com/alexurrc18/summerwell
+  🔗 https://github.com/alexurrc18/summerwell-festival
 
 
 <br>
