@@ -25,26 +25,3 @@
 |---|---|
 | **Software** | Microsoft Office · Adobe Photoshop · Adobe Premiere Pro · Figma · Firebase |
 | **Programming** | Java (Android) · C++ · SQL · HTML · CSS |
-
-
-<br>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexurrc18&show_icons=true&hide_border=true" alt="Alex's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexurrc18&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-
-<br>
-
-
-## 🤝 Let’s connect
-
-<p align="center">
-  <a href="http://linktr.ee/alexurrc18">
-    <img src="https://img.shields.io/badge/Linktree-111?style=for-the-badge&logo=linktree" alt="Linktree" />
-  </a>
-</p>
