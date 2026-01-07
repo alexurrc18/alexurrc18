@@ -1,23 +1,13 @@
 <h1 align="center">Heyya 👋 I'm Alex</h1>
 
 <p align="center"><strong>🧑‍🎓 Computer Science Student · 💻 Builder at heart · 🖼️ UI/UX enthusiast</strong></p>
-<p align="center">I like building buttons that feel great to click.</p>
+<p align="center">A CS student that likes building buttons that feel great to click.</p>
 <p align="center">
   <a href="http://linktr.ee/alexurrc18">
     <img src="https://img.shields.io/badge/Linktree-111?style=for-the-badge&logo=linktree" alt="Linktree" />
   </a>
 </p>
 
-
-
-## 🧩 About Me
-
-- CS student who loves building things that people can actually use.
-- Into UI/UX design, smooth flows, and interfaces that feel simple and fun.
-- Usually coding with music in the background.
-
-
-<br>
 
 
 ## 🚀 Side Quests
