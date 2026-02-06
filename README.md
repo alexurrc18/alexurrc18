@@ -24,4 +24,4 @@
 | Category | Tools / Skills |
 |---|---|
 | **Software** | Microsoft Office · Adobe Photoshop · Adobe Premiere Pro · Figma · Firebase |
-| **Programming** | Java (Android) · C++ · SQL · HTML · CSS |
+| **Programming** | Java · React · C++ · SQL · HTML · CSS |
