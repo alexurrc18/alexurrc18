@@ -6,7 +6,7 @@
   <a href="https://alexandruc.com">
     Check my portfolio
   </a>
-  |
+   / 
   <a href="mailto:alexandru.calin18@icloud.com">
     Let's get in touch
   </a>
