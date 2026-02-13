@@ -4,7 +4,7 @@
 <p align="center">A CS student that likes building buttons that feel great to click.</p>
 <p align="center">
   <a href="https://alexandruc.com">
-    <p>Check my portfolio</p>
+    Check my portfolio
   </a>
 </p>
 
