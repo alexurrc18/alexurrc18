@@ -1,7 +1,6 @@
 <h1 align="center">Heyya 👋 I'm Alex</h1>
 
-<p align="center"><strong>🧑‍🎓 Computer Science Student · 💻 Builder at heart · 🖼️ UI/UX enthusiast</strong></p>
-<p align="center">A CS student that likes building buttons that feel great to click.</p>
+<p align="center"><strong>🧑‍🎓 Computer Science Student · 💻 Ready to accept a challange</strong></p>
 <p align="center">
   <a href="https://alexandruc.com">
     Check my portfolio
