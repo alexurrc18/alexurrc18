@@ -1,14 +1,9 @@
 <h1 align="center">Heyya 👋 I'm Alex</h1>
 
-<p align="center"><strong>🧑‍🎓 Computer Science Student · 💻 Ready to accept a challange</strong></p>
+<p align="center"><strong>🧑‍🎓 Computer Science Student</strong></p>
+<p align="center">Ready to accept a challange</p>
 <p align="center">
-  <a href="https://alexandruc.com">
-    Check my portfolio
-  </a>
-   / 
-  <a href="mailto:alexandru.calin18@icloud.com">
-    Let's get in touch
-  </a>
+  <a href="https://alexandruc.com">Check my portfolio</a> / <a href="mailto:alexandru.calin18@icloud.com"> Let's get in touch </a>
 </p>
 
 
