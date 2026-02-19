@@ -10,10 +10,10 @@
 
 ## 🚀 Side Quests
 
-- ☀️ **Summer Well** — [Your festival companion] : React Native + Expo, Java, SQL
+- ☀️ **Summer Well** — [Your festival companion] : React Native + Expo, Java, SQL <br>
   🔗 https://github.com/alexurrc18/summerwell-festival-react-native
 
-- ⏰ **Focus** — [Pomodoro app] : Android Java
+- ⏰ **Focus** — [Pomodoro app] : Android Java <br>
   🔗 https://github.com/alexurrc18/focus-pomodoro-android
 
 
