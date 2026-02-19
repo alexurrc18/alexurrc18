@@ -7,12 +7,12 @@
 </p>
 
 
-## 🚀 Side Quests
+## 🚀 Personal Projects
 
-- ⏰ **Focus**: [Pomodoro app] - Android Java <br>
+- ⏰ **Focus**: [Pomodoro app] - Android Java <br />
   🔗 https://github.com/alexurrc18/focus-pomodoro-android
 
-- ☀️ **Summer Well**: [Your festival companion] - React Native + Expo, Java, SQL <br>
+- ☀️ **Summer Well**: [Your festival companion] - React Native + Expo, Java, SQL <br />
   🔗 https://github.com/alexurrc18/summerwell-festival-react-native
 
 
