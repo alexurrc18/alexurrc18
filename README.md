@@ -1,26 +1,12 @@
-<h1 align="center">Heyya 👋 I'm Alex</h1>
+### Hello there 👋
 
-<p align="center"><strong>🧑‍🎓 Computer Science Student &middot; 📱Ready to accept a challange</strong></p>
-<p align="center">
-  <a href="https://alexandruc.com">Check my portfolio</a> / <a href="mailto:alexandru.calin18@icloud.com">Let's get in touch</a>
-</p>
+#### A Computer Science student ready to accept a challange.
 
+Computer Science Student @ [UGAL](https://aciee.ugal.ro);<br>
 
-## 🚀 Personal Projects
-
-- ⏰ **Focus**: [Pomodoro app] - Android Java <br />
-  🔗 https://github.com/alexurrc18/focus-pomodoro-android
-
-- ☀️ **Summer Well**: [Your festival companion] - React Native + Expo, Java, SQL <br />
-  🔗 https://github.com/alexurrc18/summerwell-festival-react-native
+- ⚙️ I played with: `java`, `react`, `sql`, `c++`, `firebase`, `supabase`
+- 🏅 Contests & Hackathons: 3rd Place @ ”Severin Bumbaru” IT Contest (2026) | Participant @ AI Hackathon Thecon (2025)
 
 
-<br>
-
-
-## 🎒 Dev Backpack
-
-| Category | Tools / Skills |
-|---|---|
-| **Software** | Microsoft Office · Adobe Photoshop · Adobe Premiere Pro · Figma · Firebase |
-| **Programming** | Java · React · C++ · SQL · HTML · CSS |
+#### 🎧 Recently played:<br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31gagbythqcrwu3dkd6drztti7ku&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31gagbythqcrwu3dkd6drztti7ku&redirect=true)
